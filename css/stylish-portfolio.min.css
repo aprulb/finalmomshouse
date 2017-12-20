@@ -264,8 +264,8 @@ h6 {
 }
 
 .portfolio-item .caption .caption-content p {
-    font-weight: 300;
-    font-size: 1.2rem
+    font-weight: bolder;
+    font-size: 20px; 
 }
 
 @media (min-width:992px) {
